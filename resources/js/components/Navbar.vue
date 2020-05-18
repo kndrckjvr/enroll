@@ -15,6 +15,11 @@
           <!-- <li class="nav-item">
             <a class="nav-link" href="#">Link</a>
           </li> -->
+          <li class="nav-item">
+            <a href="#" class="nav-link">
+              {{ $t('pre-register') }}
+            </a>
+          </li>
         </ul>
 
         <ul class="navbar-nav ml-auto">
